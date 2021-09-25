@@ -25,7 +25,6 @@
 ![](https://img.shields.io/badge/Scrapy-informational?style=flat&logo=Logo1&logoColor=white&color=2bbc8a)
 
 
-
 ### Github Stats 📈
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
