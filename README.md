@@ -1,5 +1,5 @@
 ### Hi there I am Adhvaith 👋
-- 🔭 I’m currently an undergraduate researcher at CMU, where I work on predicting expected goals scored in the Barclays Women’s Football League!
+- 🔭 I’m currently an undergraduate researcher at Carnegie Mellon University, where I work on predicting expected goals scored in the Barclays Women’s Football League!
 - 🌱 I’m currently learning about: **Generalized linear models and nonparametric regression techniques**
 - 💬 Ask me about: AI, NLP Techniques, and Sports Analytics!
 - 📫 How to reach me: [![LinkedIn][2.2]][2] or Email (adhvaith.vijay@gmail.com) or [my website](https://avaitt.github.io/)
